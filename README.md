@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tech611
-- 👀 I’m interested in ... learning javaScript
-- 🌱 I’m currently learning ... javaScript
-- 💞️ I’m looking to collaborate on ... javaScript
+- 👀 I’m interested in ... Linux,  
+- 🌱 I’m currently learning ... HTML, javaScript, CSS, MySQL, and Python.
+- 💞️ I’m looking to collaborate on ... Linux
 - 📫 How to reach me ... tech611@gmail.com
 
 <!---

@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tech611
-- 👀 I’m interested in ... Linux,  
+- 👀 I’m interested in ... Linux, primarily LinuxMint. 
 - 🌱 I’m currently learning ... HTML, javaScript, CSS, MySQL, and Python.
 - 💞️ I’m looking to collaborate on ... Linux
 - 📫 How to reach me ... tech611@gmail.com
